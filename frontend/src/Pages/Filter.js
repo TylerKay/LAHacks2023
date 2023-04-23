@@ -5,12 +5,9 @@ import './Filter.css';
 function filter(){
 
     return(
-        <div>
-            Subjects:
-         {
-            <>
-            </>
-         }   
+        <nav class="navbar-expand-lg navbar-light bg-light">
+            <a class="navbar-brand">Subject</a>
+        </nav> 
         </div>
     )
 }
